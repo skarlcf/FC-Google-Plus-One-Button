@@ -22,6 +22,7 @@ Changes
 -------
 
 1.1 Added "share" description based on wordpress post title, excerpt an thumbnail.
+
 1.0 Start plugin.
 
 Contributing
