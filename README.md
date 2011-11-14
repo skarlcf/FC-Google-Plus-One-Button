@@ -9,7 +9,7 @@ Installation
 Install latest version from repository:
 
     cd wordpress/wp-content/plugins
-    git clone git@github.com:skarlcf/fc-google-plus-one-button.git
+    git clone git@github.com:skarlcf/FC-Google-Plus-One-Button.git
     
 Then activate plugin in Wordpress admin panel.
 
@@ -35,4 +35,4 @@ Contributing
 6. Enjoy a refreshing Diet Coke and wait.
 
 
-[1]: http://github.com/skarlcf/fc-google-plus-one-button/issues
+[1]: http://github.com/skarlcf/FC-Google-Plus-One-Button/issues
